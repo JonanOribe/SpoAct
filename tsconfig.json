@@ -13,6 +13,9 @@
       ],
       "@/lib": [
         "src/lib/*"
+      ],
+      "@/fonts": [
+        "public/fonts/*"
       ]
     },
     "jsx": "react-jsx",
